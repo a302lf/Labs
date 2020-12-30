@@ -2,7 +2,7 @@
 using namespace std;
 int main() 
 { int i;
-  for(i=1; 15; i++)
+  for(i=1; i<16; i++)
   	{switch (i)
   	  {case 1:
   	   cout << "Message #1\n";
